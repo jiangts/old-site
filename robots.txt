@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /feeds
+Allow: /_/rsrc/
+Allow: /_/atari/*
+Disallow: /_/
+Sitemap: http://www.parakaleo.org:80/system/feeds/sitemap
